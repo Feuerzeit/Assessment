@@ -1,0 +1,6 @@
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\bin\GEC6.Blog.Yan.Solution.WCFService.dll.config
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\bin\GEC6.Blog.Yan.Solution.WCFService.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\bin\GEC6.Blog.Yan.Solution.WCFService.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\obj\Debug\GEC6.Blog.Yan.Solution.WCFService.csprojResolveAssemblyReference.cache
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\obj\Debug\GEC6.Blog.Yan.Solution.WCFService.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Solution.WCFService\obj\Debug\GEC6.Blog.Yan.Solution.WCFService.pdb

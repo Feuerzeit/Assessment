@@ -1,0 +1,5 @@
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Application\bin\Debug\GEC6.Blog.Yan.Application.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Application\bin\Debug\GEC6.Blog.Yan.Application.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Application\obj\Debug\GEC6.Blog.Yan.Application.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Application\obj\Debug\GEC6.Blog.Yan.Application.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Application\obj\Debug\GEC6.Blog.Yan.Application.csprojResolveAssemblyReference.cache

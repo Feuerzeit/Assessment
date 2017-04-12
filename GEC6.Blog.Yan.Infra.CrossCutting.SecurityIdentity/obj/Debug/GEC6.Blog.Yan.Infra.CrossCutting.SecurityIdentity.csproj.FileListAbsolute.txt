@@ -1,0 +1,4 @@
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity\bin\Debug\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity\bin\Debug\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity\obj\Debug\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity\obj\Debug\GEC6.Blog.Yan.Infra.CrossCutting.SecurityIdentity.pdb

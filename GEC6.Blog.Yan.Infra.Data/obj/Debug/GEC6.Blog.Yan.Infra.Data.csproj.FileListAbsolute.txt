@@ -1,0 +1,14 @@
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\GEC6.Blog.Yan.Infra.Data.dll.config
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\GEC6.Blog.Yan.Infra.Data.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\GEC6.Blog.Yan.Infra.Data.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\GEC6.Blog.Yan.Domain.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\GEC6.Blog.Yan.Domain.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\obj\Debug\GEC6.Blog.Yan.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\obj\Debug\GEC6.Blog.Yan.Infra.Data.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\obj\Debug\GEC6.Blog.Yan.Infra.Data.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\obj\Debug\GEC6.Blog.Yan.Infra.Data.Migrations.StartDb.resources
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.Data\obj\Debug\GEC6.Blog.Yan.Infra.Data.csproj.GenerateResource.Cache

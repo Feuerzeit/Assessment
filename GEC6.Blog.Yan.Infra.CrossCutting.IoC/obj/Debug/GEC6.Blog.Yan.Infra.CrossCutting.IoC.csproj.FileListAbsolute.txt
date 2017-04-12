@@ -1,0 +1,4 @@
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.IoC\bin\Debug\GEC6.Blog.Yan.Infra.CrossCutting.IoC.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.IoC\bin\Debug\GEC6.Blog.Yan.Infra.CrossCutting.IoC.pdb
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.IoC\obj\Debug\GEC6.Blog.Yan.Infra.CrossCutting.IoC.dll
+C:\Code\GEC6.Blog.Yan.Solution\GEC6.Blog.Yan.Infra.CrossCutting.IoC\obj\Debug\GEC6.Blog.Yan.Infra.CrossCutting.IoC.pdb
